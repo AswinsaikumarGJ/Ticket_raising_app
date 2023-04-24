@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880788688792",
+    "project_id": "ticketraising-d601b",
+    "storage_bucket": "ticketraising-d601b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880788688792:android:3d91c2ac42d743744d65ed",
+        "android_client_info": {
+          "package_name": "com.example.ticket_raising_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880788688792-7g0f746en1omlhmlugeejr18pt4khpqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSfhefSJioGRaC8QLuR4mtOOthTLK02k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880788688792-7g0f746en1omlhmlugeejr18pt4khpqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
